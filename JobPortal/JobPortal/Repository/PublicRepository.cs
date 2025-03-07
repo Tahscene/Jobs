@@ -96,64 +96,7 @@ namespace JobPortal.Repository
             }
             finally { con.Close(); }
         }
-        /// <summary>
-        /// Display all the skills
-        /// </summary>
-        public List<Skills> DisplaySkills()
-        {
-            List<Skills> skill = new List<Skills>();
-            try
-            {
-                connection();
-                SqlCommand cmd = new SqlCommand("SP_ReadSkills",con);
-                cmd.CommandType = CommandType.StoredProcedure;
-                SqlDataAdapter da =new SqlDataAdapter(cmd);
-                DataTable dt =new DataTable();
-                con.Open();
-                da.Fill(dt);
-                foreach(DataRow dr in  dt.Rows) {
-                    skill.Add(new Skills()
-                    {
-                        SkillId = Convert.ToInt32(dr["SkillID"]),
-                        SkillName = Convert.ToString(dr["SkillName"])
-                    }); 
-                }
-                return skill;
-            }
-            finally { con.Close(); }
-        }
-        /// <summary>
-        /// Display job seeker skills
-        /// </summary>
-        /// <returns></returns>
-        public List<JobSeekerSkills> JobSeekerSkills(int seekerId)
-        {
-            List<JobSeekerSkills> skill = new List<JobSeekerSkills>();
-            try
-            {
-                connection();
-                SqlCommand cmd = new SqlCommand("SP_ReadJobSeekerSkills", con);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@JobSeekerId", seekerId);
-                SqlDataAdapter da = new SqlDataAdapter(cmd);
-                DataTable dt = new DataTable();
-                con.Open();
-                da.Fill(dt);
-                foreach (DataRow dr in dt.Rows)
-                {
-                    skill.Add(new JobSeekerSkills()
-                    {
-                        JobSeekerSkillId = Convert.ToInt32(dr["JobSeekerSkillID"]),
-                        SeekerId = Convert.ToInt32(dr["JobSeekerID"]),
-                        SkillId = Convert.ToInt32(dr["SkillID"]),
-                        SkillName = Convert.ToString(dr["SkillName"])
-                    });
-                    
-                }
-                return skill;
-            }
-            finally { con.Close(); }
-        }
+      
         /// <summary>
         /// Display Job vacancy list
         /// </summary>

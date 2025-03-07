@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tahscene\\Desktop\\Job-portal-main\\JobPortal\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\views\\home\\jobseekerregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\home\\jobseekerregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobSeekerRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\JobSeekerRegister.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Home\\JobSeekerRegister.cshtml",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\JobSeekerRegister.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Home\\JobSeekerRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:21:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:21:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:21:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:21:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Repository\\PublicRepository.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Repository\\PublicRepository.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Repository\\PublicRepository.cs",
+              "RelativeToolTip": "JobPortal\\Repository\\PublicRepository.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAAGIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:19:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:19:04.671Z",
+              "EditorCaption": ""
             }
           ]
         }

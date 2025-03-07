@@ -415,9 +415,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\JobSeekerRegister.cshtml" />
     <Content Include="Views\Shared\JobSeekerLayout.cshtml" />
-    <Content Include="Views\JobSeeker\Index.cshtml" />
     <Content Include="Views\Shared\EmployerLayout.cshtml" />
-    <Content Include="Views\Employer\Index.cshtml" />
     <Content Include="Views\Home\EmployerRegister.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\ContactUs.cshtml" />
@@ -427,17 +425,9 @@
     <Content Include="Views\Admin\Skills.cshtml" />
     <Content Include="Views\Admin\EditSkill.cshtml" />
     <Content Include="Views\Admin\AddCategory.cshtml" />
-    <Content Include="Views\JobSeeker\AddEducationDetails.cshtml" />
     <Content Include="Scripts\data.json" />
-    <Content Include="Views\JobSeeker\JobSeekerProfile.cshtml" />
-    <Content Include="Views\Employer\AddJobVacancy.cshtml" />
-    <Content Include="Views\Employer\Vacancies.cshtml" />
     <Content Include="Views\Home\Jobs.cshtml" />
     <Content Include="Views\Admin\VerifyEmployer.cshtml" />
-    <Content Include="Views\JobSeeker\Jobs.cshtml" />
-    <Content Include="Views\Employer\Applications.cshtml" />
-    <Content Include="Views\JobSeeker\JobDetails.cshtml" />
-    <Content Include="Views\JobSeeker\AppliedJobs.cshtml" />
     <Content Include="Views\Admin\Categories.cshtml" />
     <Content Include="Views\Admin\JobSeekers.cshtml" />
     <Content Include="Views\Admin\Employers.cshtml" />
@@ -445,27 +435,10 @@
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Admin\AddAdmin.cshtml" />
     <Content Include="Views\Admin\ChangePassword.cshtml" />
-    <Content Include="Views\Employer\ChangePassword.cshtml" />
-    <Content Include="Views\JobSeeker\ChangePassword.cshtml" />
-    <Content Include="Views\JobSeeker\UpdateProfile.cshtml" />
-    <Content Include="Views\Employer\UpdateProfile.cshtml" />
-    <Content Include="Views\Employer\ViewProfile.cshtml" />
-    <Content Include="Views\JobSeeker\AddSkill.cshtml" />
-    <Content Include="Views\JobSeeker\UpdateEducationDetails.cshtml" />
-    <Content Include="Views\JobSeeker\Bookmarks.cshtml" />
-    <Content Include="Views\Employer\JobSeekerProfile.cshtml" />
-    <Content Include="Views\Employer\UpdateVacancy.cshtml" />
-    <Content Include="Views\Employer\JobDetails.cshtml" />
     <Content Include="Views\Admin\JobDetails.cshtml" />
     <Content Include="Views\Admin\UpdateCategory.cshtml" />
     <Content Include="Views\Admin\JobViews.cshtml" />
     <Content Include="Views\Admin\JobSeekerProfile.cshtml" />
-    <Content Include="Views\JobSeeker\SendMessage.cshtml" />
-    <Content Include="Views\JobSeeker\Send-Message.cshtml" />
-    <Content Include="Views\Employer\Send-Message.cshtml" />
-    <Content Include="Views\Employer\SendMessage.cshtml" />
-    <Content Include="Views\Employer\ChatList.cshtml" />
-    <Content Include="Views\JobSeeker\ChatList.cshtml" />
     <Content Include="Views\Admin\ContactMessages.cshtml" />
   </ItemGroup>
   <ItemGroup>
